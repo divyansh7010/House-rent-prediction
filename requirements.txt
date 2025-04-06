@@ -51,14 +51,14 @@ entrypoints
 fastjsonschema
 filelock
 flake8
-Flask
+flask==2.0.1
 fonttools
 frozenlist
 fsspec
 future
 gensim
 greenlet
-gunicorn
+gunicorn==20.1.0
 h5py
 huggingface-hub
 idna
@@ -102,10 +102,10 @@ nltk
 notebook
 numba
 numexpr
-numpy == 1.20.0
+numpy==1.19.5
 openpyxl
 packaging
-pandas
+pandas==1.1.5
 patsy
 pep8
 pexpect
