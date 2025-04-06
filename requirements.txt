@@ -1,3 +1,7 @@
+pip ==25.0
+setuptools ==64.0
+wheel ==0.37
+Cython ==3.0
 aiobotocore
 aiofiles
 aiohttp
@@ -10,7 +14,7 @@ appdirs
 argon2-cffi
 arrow
 astroid
-astropy
+astropy 
 asttokens
 async-timeout
 attrs
@@ -102,7 +106,7 @@ nltk
 notebook
 numba
 numexpr
-numpy
+numpy == 1.20.0
 openpyxl
 packaging
 pandas
