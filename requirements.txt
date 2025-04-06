@@ -1,4 +1,3 @@
-pip==21.3.1
 aiobotocore
 aiofiles
 aiohttp
@@ -52,14 +51,14 @@ entrypoints
 fastjsonschema
 filelock
 flake8
-flask==2.0.1
+flask
 fonttools
 frozenlist
 fsspec
 future
 gensim
 greenlet
-gunicorn==20.1.0
+gunicorn
 h5py
 huggingface-hub
 idna
@@ -103,10 +102,10 @@ nltk
 notebook
 numba
 numexpr
-numpy==1.19.5
+numpy
 openpyxl
 packaging
-pandas==1.1.5
+pandas
 patsy
 pep8
 pexpect
