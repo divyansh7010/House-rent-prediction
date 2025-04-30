@@ -141,7 +141,7 @@ pyzmq
 requests
 responses
 scikit-image
-scikit-learn
+scikit-learn==1.0.2
 scipy
 seaborn
 Send2Trash
