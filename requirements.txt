@@ -1,7 +1,3 @@
-numpy==1.23.5
-scipy==1.9.3
-joblib==1.1.1
-scikit-learn==1.0.2
 aiobotocore
 aiofiles
 aiohttp
@@ -14,7 +10,7 @@ appdirs
 argon2-cffi
 arrow
 astroid
-astropy 
+astropy
 asttokens
 async-timeout
 attrs
@@ -55,7 +51,7 @@ entrypoints
 fastjsonschema
 filelock
 flake8
-flask
+Flask
 fonttools
 frozenlist
 fsspec
@@ -145,7 +141,7 @@ pyzmq
 requests
 responses
 scikit-image
-scikit-learn==1.0.2
+scikit-learn == 1.2.2
 scipy
 seaborn
 Send2Trash
